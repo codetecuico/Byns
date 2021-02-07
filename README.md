@@ -4,7 +4,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Byns&metric=alert_status)](https://sonarcloud.io/dashboard?id=Byns)
 ![deployment](https://byns.vsrm.visualstudio.com/_apis/public/Release/badge/2cff09a0-f44b-4640-90b7-2d6c2d4a99ee/1/1)
 
-Web App Url: https://byns.ctazure.com
+Web App Url: https://byns.codetecuico.com
 
 Support email: dev@codetecuico.com
 
